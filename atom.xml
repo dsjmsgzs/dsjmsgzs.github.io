@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Dsjmsgzs.github.io</id>
+    <id>https://dsjmsgzs.github.io</id>
     <title>杜世军名师工作室</title>
-    <updated>2020-10-10T08:50:45.279Z</updated>
+    <updated>2020-10-12T02:56:40.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Dsjmsgzs.github.io"/>
-    <link rel="self" href="https://Dsjmsgzs.github.io/atom.xml"/>
+    <link rel="alternate" href="https://dsjmsgzs.github.io"/>
+    <link rel="self" href="https://dsjmsgzs.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://Dsjmsgzs.github.io/images/avatar.png</logo>
-    <icon>https://Dsjmsgzs.github.io/favicon.ico</icon>
+    <logo>https://dsjmsgzs.github.io/images/avatar.png</logo>
+    <icon>https://dsjmsgzs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 杜世军名师工作室</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Dsjmsgzs.github.io/post/hello-gridea/</id>
-        <link href="https://Dsjmsgzs.github.io/post/hello-gridea/">
+        <id>https://dsjmsgzs.github.io/post/hello-gridea/</id>
+        <link href="https://dsjmsgzs.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
